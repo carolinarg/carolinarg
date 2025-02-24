@@ -1,5 +1,7 @@
-## Hi there 👋
+# ✨CarolinaRG✨
+**'Developer / Data Engineer / Experimental Physicist'**   
 
+I'm a full time developper...
 <!--
 **carolinarg/carolinarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
